@@ -2,4 +2,4 @@ from django.http import HttpResponse
 
 
 def index(request):
-    return HttpResponse("De Fietsspeeltuin en meer")
+    return HttpResponse("De Fietsspeeltuin & geospeeltuin")
